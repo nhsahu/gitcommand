@@ -1,2 +1,18 @@
 first file to show git commit.
 
+
+shell scripting:-
+#!/bin/bash
+echo"First line of jenkins code"
+echo"time is"
+time
+date
+ps
+
+sh/bash <script_name>
+
+python:-
+<script_name>.py
+
+java:-
+javac <script_name>.java
